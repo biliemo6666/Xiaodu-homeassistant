@@ -1,0 +1,6 @@
+{
+  "name": "小度 Home Assistant 集成",
+  "content_in_root": false,
+  "render_readme": true,
+  "homeassistant": "2024.1.0"
+}

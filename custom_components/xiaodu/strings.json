@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "小度",
+        "description": "请输入小度的 Cookie 信息",
+        "data": {
+          "cookie": "Cookie"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "无法连接到小度",
+      "unknown": "未知错误"
+    },
+    "abort": {
+      "already_configured": "已配置"
+    }
+  }
+}

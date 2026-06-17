@@ -1,0 +1,12 @@
+{
+  "codeowners": [],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "",
+  "issue_tracker": "",
+  "domain": "xiaodu",
+  "iot_class": "cloud_polling",
+  "name": "小度",
+  "requirements": [],
+  "version": "1.0.0"
+}
