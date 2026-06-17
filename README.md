@@ -1,6 +1,6 @@
 # Xiaodu-HomeAssistant 集成（改版）
 
-本项目基于 [2331892928/hass-xiaodu](https://github.com/2331892928/hass-xiaodu) 二次开发，主要新增了对**风扇**及**自定义设备**的支持，让更多设备类型可以接入小度。
+本项目基于 [2331892928/hass-xiaodu]((https://github.com/2331892928/hass_xiaodu) 二次开发，主要新增了对**风扇**及**自定义设备**的支持，让更多设备类型可以接入小度。
 
 ---
 
